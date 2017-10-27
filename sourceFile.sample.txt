@@ -1,4 +1,4 @@
-app TeamPerl   = Learning Perl on GitHub
+app TeamPerl= Learning Perl on GitHub
   maximages = 6
   icon      = https://avatars1.githubusercontent.com/u/7548378?v=4
   author    = philiprbrenan
@@ -6,81 +6,75 @@ app TeamPerl   = Learning Perl on GitHub
 
 
 # Details of photo array1
-photo array1 = Title of array1
+photo array = Array
   url = https://raw.githubusercontent.com/philiprbrenan/TeamPerl/master/images/array1.jpg
 
-fact array1.1 = First fact about array1
-fact array1.2 = Another fact about array1
-
+fact array = At sign
+fact array = Square brackets
+fact array = Integer keys
+fact array = Ordered keys
+fact array = Faster than hashes
+fact array = Slower than scalars
+fact array = Count up from zero
+fact array = Count down from minus one
+fact array = Scalar gives number of elements
+fact array = Grows automatically
+fact array = Push
+fact array = Pop
+fact array = Shift
+fact array = Unshift
 
 # Details of photo array2
-photo array2 = Title of array2
+photo array = Array
   url = https://raw.githubusercontent.com/philiprbrenan/TeamPerl/master/images/array2.png
 
-fact array2.1 = First fact about array2
-fact array2.2 = Another fact about array2
-
-
 # Details of photo array3
-photo array3 = Title of array3
+photo array = Array
   url = https://raw.githubusercontent.com/philiprbrenan/TeamPerl/master/images/array3.jpg
 
-fact array3.1 = First fact about array3
-fact array3.2 = Another fact about array3
-
-
 # Details of photo array4
-photo array4 = Title of array4
+photo array = Array
   url = https://raw.githubusercontent.com/philiprbrenan/TeamPerl/master/images/array4.jpg
 
-fact array4.1 = First fact about array4
-fact array4.2 = Another fact about array4
-
-
 # Details of photo hash1
-photo hash1 = Title of hash1
+photo hash = Hash
   url = https://raw.githubusercontent.com/philiprbrenan/TeamPerl/master/images/hash1.jpg
 
-fact hash1.1 = First fact about hash1
-fact hash1.2 = Another fact about hash1
-
+fact hash = Hash sign
+fact hash = Curly brackets
+fact hash = String keys
+fact hash = Not ordered
+fact hash = Scalar keys gives number of elements
+fact hash = Slower than arrays
+fact hash = Slower than scalars
+fact hash = Grows automatically
+fact hash = Sort the keys
+fact hash = Delete
 
 # Details of photo hash2
-photo hash2 = Title of hash2
+photo hash = Hash
   url = https://raw.githubusercontent.com/philiprbrenan/TeamPerl/master/images/hash2.jpg
 
-fact hash2.1 = First fact about hash2
-fact hash2.2 = Another fact about hash2
-
-
 # Details of photo hash3
-photo hash3 = Title of hash3
+photo hash = Hash
   url = https://raw.githubusercontent.com/philiprbrenan/TeamPerl/master/images/hash3.jpg
 
-fact hash3.1 = First fact about hash3
-fact hash3.2 = Another fact about hash3
-
-
 # Details of photo hash4
-photo hash4 = Title of hash4
+photo hash = Hash
   url = https://raw.githubusercontent.com/philiprbrenan/TeamPerl/master/images/hash4.jpg
 
-fact hash4.1 = First fact about hash4
-fact hash4.2 = Another fact about hash4
-
-
 # Details of photo scalar1
-photo scalar1 = Title of scalar1
+photo scalar = Scalar
   url = https://raw.githubusercontent.com/philiprbrenan/TeamPerl/master/images/scalar1.jpg
 
-fact scalar1.1 = First fact about scalar1
-fact scalar1.2 = Another fact about scalar1
-
+fact scalar = Dollar sign
+fact scalar = Just one element at a time
+fact scalar = No brackets
+fact scalar = No keys
+fact scalar = Faster than hashes
+fact scalar = Faster than arrays
+fact scalar = Can be set to undef
 
 # Details of photo scalar2
-photo scalar2 = Title of scalar2
+photo scalar = Scalar
   url = https://raw.githubusercontent.com/philiprbrenan/TeamPerl/master/images/scalar2.jpg
-
-fact scalar2.1 = First fact about scalar2
-fact scalar2.2 = Another fact about scalar2
-
