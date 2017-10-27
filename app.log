@@ -1,29 +1,18 @@
 SUCCESS!
-2017-10-27 at 02:43:58 Generate AppaAppsPhotoApp version 20171021-222
+2017-10-27 at 03:04:12 Generate AppaAppsPhotoApp version 20171021-222
 
-2017-10-27 at 02:44:02 Step: parseSource
-2017-10-27 at 02:44:02 Good source file!
-2017-10-27 at 02:44:02 Step: loadAssets
-2017-10-27 at 02:44:04 -rw-rw-r-- 1 phil phil 984467 Oct 27 02:44 /tmp/AppaAppsPhotoApp/cache/images/array1.jpg
-2017-10-27 at 02:44:05 -rw-rw-r-- 1 phil phil 684857 Oct 27 02:44 /tmp/AppaAppsPhotoApp/cache/images/array2.png
-2017-10-27 at 02:44:07 -rw-rw-r-- 1 phil phil 81808 Oct 27 02:44 /tmp/AppaAppsPhotoApp/cache/images/array3.jpg
-2017-10-27 at 02:44:07 -rw-rw-r-- 1 phil phil 62380 Oct 27 02:44 /tmp/AppaAppsPhotoApp/cache/images/array4.jpg
-2017-10-27 at 02:44:08 -rw-rw-r-- 1 phil phil 324139 Oct 27 02:44 /tmp/AppaAppsPhotoApp/cache/images/hash1.jpg
-2017-10-27 at 02:44:09 -rw-rw-r-- 1 phil phil 138416 Oct 27 02:44 /tmp/AppaAppsPhotoApp/cache/images/hash2.jpg
-2017-10-27 at 02:44:09 -rw-rw-r-- 1 phil phil 67438 Oct 27 02:44 /tmp/AppaAppsPhotoApp/cache/images/hash3.jpg
-2017-10-27 at 02:44:11 -rw-rw-r-- 1 phil phil 109316 Oct 27 02:44 /tmp/AppaAppsPhotoApp/cache/images/hash4.jpg
-2017-10-27 at 02:44:11 -rw-rw-r-- 1 phil phil 138671 Oct 27 02:44 /tmp/AppaAppsPhotoApp/cache/images/scalar1.jpg
-2017-10-27 at 02:44:12 -rw-rw-r-- 1 phil phil 92354 Oct 27 02:44 /tmp/AppaAppsPhotoApp/cache/images/scalar2.jpg
-2017-10-27 at 02:44:12 -rw-rw-r-- 1 phil phil 35968 Jan 25  2011 /tmp/AppaAppsPhotoApp/cache/images/7548378?v=4
-2017-10-27 at 02:50:25 Step: multiplyPhotosByFacts
-2017-10-27 at 02:50:25 Step: genJavaManifest
-2017-10-27 at 02:50:25 Step: genJsonManifest
-2017-10-27 at 02:50:25 Step: genGameHtml
-2017-10-27 at 02:50:25 Step: genHtmlAssets
-2017-10-27 at 02:50:25 Step: zipAssets
-2017-10-27 at 02:50:25 Step: compileApp
-2017-10-27 at 02:50:31 Step: copyLinksToGitHub
-2017-10-27 at 02:50:35 Step: copyFilesIntoPositionOnWebServer
+2017-10-27 at 03:04:15 Step: parseSource
+2017-10-27 at 03:04:15 Good source file!
+2017-10-27 at 03:04:15 Step: loadAssets
+2017-10-27 at 03:04:16 Step: multiplyPhotosByFacts
+2017-10-27 at 03:04:16 Step: genJavaManifest
+2017-10-27 at 03:04:16 Step: genJsonManifest
+2017-10-27 at 03:04:16 Step: genGameHtml
+2017-10-27 at 03:04:16 Step: genHtmlAssets
+2017-10-27 at 03:04:16 Step: zipAssets
+2017-10-27 at 03:04:17 Step: compileApp
+2017-10-27 at 03:04:21 Step: copyLinksToGitHub
+2017-10-27 at 03:04:25 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -43,7 +32,7 @@ do {
       log           => [
                          "",
                          "",
-                         "Crunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
+                         "libpng error: Read Error\nCrunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
                          "",
                          "",
                          "Enter Passphrase for keystore: jar signed.\n\nWarning: \nNo -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2044-09-10) or after any future revocation date.",
@@ -111,30 +100,19 @@ do {
     error => undef,
     iconFile => "/tmp/AppaAppsPhotoApp/cache/images/7548378?v=4",
     log => [
-      "2017-10-27 at 02:43:58 Generate AppaAppsPhotoApp version 20171021-222\n",
-      "2017-10-27 at 02:44:02 Step: parseSource",
-      "2017-10-27 at 02:44:02 Good source file!",
-      "2017-10-27 at 02:44:02 Step: loadAssets",
-      "2017-10-27 at 02:44:04 -rw-rw-r-- 1 phil phil 984467 Oct 27 02:44 /tmp/AppaAppsPhotoApp/cache/images/array1.jpg",
-      "2017-10-27 at 02:44:05 -rw-rw-r-- 1 phil phil 684857 Oct 27 02:44 /tmp/AppaAppsPhotoApp/cache/images/array2.png",
-      "2017-10-27 at 02:44:07 -rw-rw-r-- 1 phil phil 81808 Oct 27 02:44 /tmp/AppaAppsPhotoApp/cache/images/array3.jpg",
-      "2017-10-27 at 02:44:07 -rw-rw-r-- 1 phil phil 62380 Oct 27 02:44 /tmp/AppaAppsPhotoApp/cache/images/array4.jpg",
-      "2017-10-27 at 02:44:08 -rw-rw-r-- 1 phil phil 324139 Oct 27 02:44 /tmp/AppaAppsPhotoApp/cache/images/hash1.jpg",
-      "2017-10-27 at 02:44:09 -rw-rw-r-- 1 phil phil 138416 Oct 27 02:44 /tmp/AppaAppsPhotoApp/cache/images/hash2.jpg",
-      "2017-10-27 at 02:44:09 -rw-rw-r-- 1 phil phil 67438 Oct 27 02:44 /tmp/AppaAppsPhotoApp/cache/images/hash3.jpg",
-      "2017-10-27 at 02:44:11 -rw-rw-r-- 1 phil phil 109316 Oct 27 02:44 /tmp/AppaAppsPhotoApp/cache/images/hash4.jpg",
-      "2017-10-27 at 02:44:11 -rw-rw-r-- 1 phil phil 138671 Oct 27 02:44 /tmp/AppaAppsPhotoApp/cache/images/scalar1.jpg",
-      "2017-10-27 at 02:44:12 -rw-rw-r-- 1 phil phil 92354 Oct 27 02:44 /tmp/AppaAppsPhotoApp/cache/images/scalar2.jpg",
-      "2017-10-27 at 02:44:12 -rw-rw-r-- 1 phil phil 35968 Jan 25  2011 /tmp/AppaAppsPhotoApp/cache/images/7548378?v=4",
-      "2017-10-27 at 02:50:25 Step: multiplyPhotosByFacts",
-      "2017-10-27 at 02:50:25 Step: genJavaManifest",
-      "2017-10-27 at 02:50:25 Step: genJsonManifest",
-      "2017-10-27 at 02:50:25 Step: genGameHtml",
-      "2017-10-27 at 02:50:25 Step: genHtmlAssets",
-      "2017-10-27 at 02:50:25 Step: zipAssets",
-      "2017-10-27 at 02:50:25 Step: compileApp",
-      "2017-10-27 at 02:50:31 Step: copyLinksToGitHub",
-      "2017-10-27 at 02:50:35 Step: copyFilesIntoPositionOnWebServer",
+      "2017-10-27 at 03:04:12 Generate AppaAppsPhotoApp version 20171021-222\n",
+      "2017-10-27 at 03:04:15 Step: parseSource",
+      "2017-10-27 at 03:04:15 Good source file!",
+      "2017-10-27 at 03:04:15 Step: loadAssets",
+      "2017-10-27 at 03:04:16 Step: multiplyPhotosByFacts",
+      "2017-10-27 at 03:04:16 Step: genJavaManifest",
+      "2017-10-27 at 03:04:16 Step: genJsonManifest",
+      "2017-10-27 at 03:04:16 Step: genGameHtml",
+      "2017-10-27 at 03:04:16 Step: genHtmlAssets",
+      "2017-10-27 at 03:04:16 Step: zipAssets",
+      "2017-10-27 at 03:04:17 Step: compileApp",
+      "2017-10-27 at 03:04:21 Step: copyLinksToGitHub",
+      "2017-10-27 at 03:04:25 Step: copyFilesIntoPositionOnWebServer",
     ],
     parsedCmds => [
       'fix',
