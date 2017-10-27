@@ -1,18 +1,18 @@
 SUCCESS!
-2017-10-27 at 03:04:12 Generate AppaAppsPhotoApp version 20171021-222
+2017-10-27 at 03:26:03 Generate AppaAppsPhotoApp version 20171021-222
 
-2017-10-27 at 03:04:15 Step: parseSource
-2017-10-27 at 03:04:15 Good source file!
-2017-10-27 at 03:04:15 Step: loadAssets
-2017-10-27 at 03:04:16 Step: multiplyPhotosByFacts
-2017-10-27 at 03:04:16 Step: genJavaManifest
-2017-10-27 at 03:04:16 Step: genJsonManifest
-2017-10-27 at 03:04:16 Step: genGameHtml
-2017-10-27 at 03:04:16 Step: genHtmlAssets
-2017-10-27 at 03:04:16 Step: zipAssets
-2017-10-27 at 03:04:17 Step: compileApp
-2017-10-27 at 03:04:21 Step: copyLinksToGitHub
-2017-10-27 at 03:04:25 Step: copyFilesIntoPositionOnWebServer
+2017-10-27 at 03:26:07 Step: parseSource
+2017-10-27 at 03:26:07 Good source file!
+2017-10-27 at 03:26:07 Step: loadAssets
+2017-10-27 at 03:26:08 Step: multiplyPhotosByFacts
+2017-10-27 at 03:26:08 Step: genJavaManifest
+2017-10-27 at 03:26:08 Step: genJsonManifest
+2017-10-27 at 03:26:08 Step: genGameHtml
+2017-10-27 at 03:26:08 Step: genHtmlAssets
+2017-10-27 at 03:26:08 Step: zipAssets
+2017-10-27 at 03:26:08 Step: compileApp
+2017-10-27 at 03:26:12 Step: copyLinksToGitHub
+2017-10-27 at 03:26:17 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -32,7 +32,7 @@ do {
       log           => [
                          "",
                          "",
-                         "libpng error: Read Error\nCrunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
+                         "Crunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
                          "",
                          "",
                          "Enter Passphrase for keystore: jar signed.\n\nWarning: \nNo -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2044-09-10) or after any future revocation date.",
@@ -100,19 +100,19 @@ do {
     error => undef,
     iconFile => "/tmp/AppaAppsPhotoApp/cache/images/7548378?v=4",
     log => [
-      "2017-10-27 at 03:04:12 Generate AppaAppsPhotoApp version 20171021-222\n",
-      "2017-10-27 at 03:04:15 Step: parseSource",
-      "2017-10-27 at 03:04:15 Good source file!",
-      "2017-10-27 at 03:04:15 Step: loadAssets",
-      "2017-10-27 at 03:04:16 Step: multiplyPhotosByFacts",
-      "2017-10-27 at 03:04:16 Step: genJavaManifest",
-      "2017-10-27 at 03:04:16 Step: genJsonManifest",
-      "2017-10-27 at 03:04:16 Step: genGameHtml",
-      "2017-10-27 at 03:04:16 Step: genHtmlAssets",
-      "2017-10-27 at 03:04:16 Step: zipAssets",
-      "2017-10-27 at 03:04:17 Step: compileApp",
-      "2017-10-27 at 03:04:21 Step: copyLinksToGitHub",
-      "2017-10-27 at 03:04:25 Step: copyFilesIntoPositionOnWebServer",
+      "2017-10-27 at 03:26:03 Generate AppaAppsPhotoApp version 20171021-222\n",
+      "2017-10-27 at 03:26:07 Step: parseSource",
+      "2017-10-27 at 03:26:07 Good source file!",
+      "2017-10-27 at 03:26:07 Step: loadAssets",
+      "2017-10-27 at 03:26:08 Step: multiplyPhotosByFacts",
+      "2017-10-27 at 03:26:08 Step: genJavaManifest",
+      "2017-10-27 at 03:26:08 Step: genJsonManifest",
+      "2017-10-27 at 03:26:08 Step: genGameHtml",
+      "2017-10-27 at 03:26:08 Step: genHtmlAssets",
+      "2017-10-27 at 03:26:08 Step: zipAssets",
+      "2017-10-27 at 03:26:08 Step: compileApp",
+      "2017-10-27 at 03:26:12 Step: copyLinksToGitHub",
+      "2017-10-27 at 03:26:17 Step: copyFilesIntoPositionOnWebServer",
     ],
     parsedCmds => [
       'fix',
